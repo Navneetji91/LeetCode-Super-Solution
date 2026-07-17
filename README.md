@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Navneetji91/LeetCode-Super-Solution/tree/master/0001-two-sum) |
+| [0053-maximum-subarray](https://github.com/Navneetji91/LeetCode-Super-Solution/tree/master/0053-maximum-subarray) |
 | [0136-single-number](https://github.com/Navneetji91/LeetCode-Super-Solution/tree/master/0136-single-number) |
 ## Bit Manipulation
 |  |
@@ -22,4 +23,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Navneetji91/LeetCode-Super-Solution/tree/master/0001-two-sum) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0053-maximum-subarray](https://github.com/Navneetji91/LeetCode-Super-Solution/tree/master/0053-maximum-subarray) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0053-maximum-subarray](https://github.com/Navneetji91/LeetCode-Super-Solution/tree/master/0053-maximum-subarray) |
 <!---LeetCode Topics End-->
