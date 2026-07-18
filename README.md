@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0027-remove-element](https://github.com/Navneetji91/LeetCode-Super-Solution/tree/master/0027-remove-element) |
 | [0053-maximum-subarray](https://github.com/Navneetji91/LeetCode-Super-Solution/tree/master/0053-maximum-subarray) |
 | [0136-single-number](https://github.com/Navneetji91/LeetCode-Super-Solution/tree/master/0136-single-number) |
+| [0283-move-zeroes](https://github.com/Navneetji91/LeetCode-Super-Solution/tree/master/0283-move-zeroes) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -42,5 +43,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Navneetji91/LeetCode-Super-Solution/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/Navneetji91/LeetCode-Super-Solution/tree/master/0027-remove-element) |
+| [0283-move-zeroes](https://github.com/Navneetji91/LeetCode-Super-Solution/tree/master/0283-move-zeroes) |
 | [0876-middle-of-the-linked-list](https://github.com/Navneetji91/LeetCode-Super-Solution/tree/master/0876-middle-of-the-linked-list) |
 <!---LeetCode Topics End-->
