@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/Navneetji91/LeetCode-Super-Solution/tree/master/0020-valid-parentheses) |
 | [0058-length-of-last-word](https://github.com/Navneetji91/LeetCode-Super-Solution/tree/master/0058-length-of-last-word) |
 ## Hash Table
 |  |
@@ -51,4 +52,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0977-squares-of-a-sorted-array](https://github.com/Navneetji91/LeetCode-Super-Solution/tree/master/0977-squares-of-a-sorted-array) |
+## Stack
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/Navneetji91/LeetCode-Super-Solution/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
