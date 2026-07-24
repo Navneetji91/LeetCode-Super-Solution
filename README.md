@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/Navneetji91/LeetCode-Super-Solution/tree/master/0283-move-zeroes) |
 | [0303-range-sum-query-immutable](https://github.com/Navneetji91/LeetCode-Super-Solution/tree/master/0303-range-sum-query-immutable) |
 | [0643-maximum-average-subarray-i](https://github.com/Navneetji91/LeetCode-Super-Solution/tree/master/0643-maximum-average-subarray-i) |
+| [0724-find-pivot-index](https://github.com/Navneetji91/LeetCode-Super-Solution/tree/master/0724-find-pivot-index) |
 | [0912-sort-an-array](https://github.com/Navneetji91/LeetCode-Super-Solution/tree/master/0912-sort-an-array) |
 | [0977-squares-of-a-sorted-array](https://github.com/Navneetji91/LeetCode-Super-Solution/tree/master/0977-squares-of-a-sorted-array) |
 | [1652-defuse-the-bomb](https://github.com/Navneetji91/LeetCode-Super-Solution/tree/master/1652-defuse-the-bomb) |
@@ -84,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0209-minimum-size-subarray-sum](https://github.com/Navneetji91/LeetCode-Super-Solution/tree/master/0209-minimum-size-subarray-sum) |
 | [0238-product-of-array-except-self](https://github.com/Navneetji91/LeetCode-Super-Solution/tree/master/0238-product-of-array-except-self) |
 | [0303-range-sum-query-immutable](https://github.com/Navneetji91/LeetCode-Super-Solution/tree/master/0303-range-sum-query-immutable) |
+| [0724-find-pivot-index](https://github.com/Navneetji91/LeetCode-Super-Solution/tree/master/0724-find-pivot-index) |
 ## Greedy
 |  |
 | ------- |
