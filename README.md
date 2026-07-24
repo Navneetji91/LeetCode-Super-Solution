@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0643-maximum-average-subarray-i](https://github.com/Navneetji91/LeetCode-Super-Solution/tree/master/0643-maximum-average-subarray-i) |
 | [0912-sort-an-array](https://github.com/Navneetji91/LeetCode-Super-Solution/tree/master/0912-sort-an-array) |
 | [0977-squares-of-a-sorted-array](https://github.com/Navneetji91/LeetCode-Super-Solution/tree/master/0977-squares-of-a-sorted-array) |
+| [1652-defuse-the-bomb](https://github.com/Navneetji91/LeetCode-Super-Solution/tree/master/1652-defuse-the-bomb) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -95,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0209-minimum-size-subarray-sum](https://github.com/Navneetji91/LeetCode-Super-Solution/tree/master/0209-minimum-size-subarray-sum) |
 | [0219-contains-duplicate-ii](https://github.com/Navneetji91/LeetCode-Super-Solution/tree/master/0219-contains-duplicate-ii) |
 | [0643-maximum-average-subarray-i](https://github.com/Navneetji91/LeetCode-Super-Solution/tree/master/0643-maximum-average-subarray-i) |
+| [1652-defuse-the-bomb](https://github.com/Navneetji91/LeetCode-Super-Solution/tree/master/1652-defuse-the-bomb) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
