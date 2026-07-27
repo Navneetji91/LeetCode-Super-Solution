@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/Navneetji91/LeetCode-Super-Solution/tree/master/0268-missing-number) |
 | [0372-super-pow](https://github.com/Navneetji91/LeetCode-Super-Solution/tree/master/0372-super-pow) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Navneetji91/LeetCode-Super-Solution/tree/master/0628-maximum-product-of-three-numbers) |
+| [1295-find-numbers-with-even-number-of-digits](https://github.com/Navneetji91/LeetCode-Super-Solution/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [3536-maximum-product-of-two-digits](https://github.com/Navneetji91/LeetCode-Super-Solution/tree/master/3536-maximum-product-of-two-digits) |
 ## Array
 |  |
@@ -31,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0724-find-pivot-index](https://github.com/Navneetji91/LeetCode-Super-Solution/tree/master/0724-find-pivot-index) |
 | [0912-sort-an-array](https://github.com/Navneetji91/LeetCode-Super-Solution/tree/master/0912-sort-an-array) |
 | [0977-squares-of-a-sorted-array](https://github.com/Navneetji91/LeetCode-Super-Solution/tree/master/0977-squares-of-a-sorted-array) |
+| [1295-find-numbers-with-even-number-of-digits](https://github.com/Navneetji91/LeetCode-Super-Solution/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1652-defuse-the-bomb](https://github.com/Navneetji91/LeetCode-Super-Solution/tree/master/1652-defuse-the-bomb) |
 ## Bit Manipulation
 |  |
