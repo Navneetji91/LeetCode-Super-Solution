@@ -115,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/Navneetji91/LeetCode-Super-Solution/tree/master/0209-minimum-size-subarray-sum) |
 | [0268-missing-number](https://github.com/Navneetji91/LeetCode-Super-Solution/tree/master/0268-missing-number) |
+| [0374-guess-number-higher-or-lower](https://github.com/Navneetji91/LeetCode-Super-Solution/tree/master/0374-guess-number-higher-or-lower) |
 ## Sliding Window
 |  |
 | ------- |
@@ -146,4 +147,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0303-range-sum-query-immutable](https://github.com/Navneetji91/LeetCode-Super-Solution/tree/master/0303-range-sum-query-immutable) |
+## Interactive
+|  |
+| ------- |
+| [0374-guess-number-higher-or-lower](https://github.com/Navneetji91/LeetCode-Super-Solution/tree/master/0374-guess-number-higher-or-lower) |
 <!---LeetCode Topics End-->
