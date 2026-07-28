@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0016-3sum-closest](https://github.com/Navneetji91/LeetCode-Super-Solution/tree/master/0016-3sum-closest) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Navneetji91/LeetCode-Super-Solution/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/Navneetji91/LeetCode-Super-Solution/tree/master/0027-remove-element) |
+| [0035-search-insert-position](https://github.com/Navneetji91/LeetCode-Super-Solution/tree/master/0035-search-insert-position) |
 | [0053-maximum-subarray](https://github.com/Navneetji91/LeetCode-Super-Solution/tree/master/0053-maximum-subarray) |
 | [0136-single-number](https://github.com/Navneetji91/LeetCode-Super-Solution/tree/master/0136-single-number) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Navneetji91/LeetCode-Super-Solution/tree/master/0153-find-minimum-in-rotated-sorted-array) |
@@ -114,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0035-search-insert-position](https://github.com/Navneetji91/LeetCode-Super-Solution/tree/master/0035-search-insert-position) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Navneetji91/LeetCode-Super-Solution/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0209-minimum-size-subarray-sum](https://github.com/Navneetji91/LeetCode-Super-Solution/tree/master/0209-minimum-size-subarray-sum) |
 | [0268-missing-number](https://github.com/Navneetji91/LeetCode-Super-Solution/tree/master/0268-missing-number) |
