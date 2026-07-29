@@ -76,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Linked List
 |  |
 | ------- |
+| [0206-reverse-linked-list](https://github.com/Navneetji91/LeetCode-Super-Solution/tree/master/0206-reverse-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/Navneetji91/LeetCode-Super-Solution/tree/master/0876-middle-of-the-linked-list) |
 ## Two Pointers
 |  |
@@ -162,6 +163,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Recursion
 |  |
 | ------- |
+| [0206-reverse-linked-list](https://github.com/Navneetji91/LeetCode-Super-Solution/tree/master/0206-reverse-linked-list) |
 | [0509-fibonacci-number](https://github.com/Navneetji91/LeetCode-Super-Solution/tree/master/0509-fibonacci-number) |
 ## Memoization
 |  |
