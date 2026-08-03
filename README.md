@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/Navneetji91/LeetCode-Super-Solution/tree/master/0283-move-zeroes) |
 | [0303-range-sum-query-immutable](https://github.com/Navneetji91/LeetCode-Super-Solution/tree/master/0303-range-sum-query-immutable) |
 | [0485-max-consecutive-ones](https://github.com/Navneetji91/LeetCode-Super-Solution/tree/master/0485-max-consecutive-ones) |
+| [0494-target-sum](https://github.com/Navneetji91/LeetCode-Super-Solution/tree/master/0494-target-sum) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Navneetji91/LeetCode-Super-Solution/tree/master/0628-maximum-product-of-three-numbers) |
 | [0643-maximum-average-subarray-i](https://github.com/Navneetji91/LeetCode-Super-Solution/tree/master/0643-maximum-average-subarray-i) |
 | [0724-find-pivot-index](https://github.com/Navneetji91/LeetCode-Super-Solution/tree/master/0724-find-pivot-index) |
@@ -78,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/Navneetji91/LeetCode-Super-Solution/tree/master/0053-maximum-subarray) |
+| [0494-target-sum](https://github.com/Navneetji91/LeetCode-Super-Solution/tree/master/0494-target-sum) |
 | [0509-fibonacci-number](https://github.com/Navneetji91/LeetCode-Super-Solution/tree/master/0509-fibonacci-number) |
 | [0877-stone-game](https://github.com/Navneetji91/LeetCode-Super-Solution/tree/master/0877-stone-game) |
 ## Linked List
@@ -182,4 +184,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0877-stone-game](https://github.com/Navneetji91/LeetCode-Super-Solution/tree/master/0877-stone-game) |
+## Backtracking
+|  |
+| ------- |
+| [0494-target-sum](https://github.com/Navneetji91/LeetCode-Super-Solution/tree/master/0494-target-sum) |
+## Knapsack Problem
+|  |
+| ------- |
+| [0494-target-sum](https://github.com/Navneetji91/LeetCode-Super-Solution/tree/master/0494-target-sum) |
+## 0-1 Knapsack
+|  |
+| ------- |
+| [0494-target-sum](https://github.com/Navneetji91/LeetCode-Super-Solution/tree/master/0494-target-sum) |
 <!---LeetCode Topics End-->
