@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0977-squares-of-a-sorted-array](https://github.com/Navneetji91/LeetCode-Super-Solution/tree/master/0977-squares-of-a-sorted-array) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/Navneetji91/LeetCode-Super-Solution/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1652-defuse-the-bomb](https://github.com/Navneetji91/LeetCode-Super-Solution/tree/master/1652-defuse-the-bomb) |
+| [3731-find-missing-elements](https://github.com/Navneetji91/LeetCode-Super-Solution/tree/master/3731-find-missing-elements) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -69,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/Navneetji91/LeetCode-Super-Solution/tree/master/0268-missing-number) |
 | [0389-find-the-difference](https://github.com/Navneetji91/LeetCode-Super-Solution/tree/master/0389-find-the-difference) |
 | [0409-longest-palindrome](https://github.com/Navneetji91/LeetCode-Super-Solution/tree/master/0409-longest-palindrome) |
+| [3731-find-missing-elements](https://github.com/Navneetji91/LeetCode-Super-Solution/tree/master/3731-find-missing-elements) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -111,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0912-sort-an-array](https://github.com/Navneetji91/LeetCode-Super-Solution/tree/master/0912-sort-an-array) |
 | [0977-squares-of-a-sorted-array](https://github.com/Navneetji91/LeetCode-Super-Solution/tree/master/0977-squares-of-a-sorted-array) |
 | [3536-maximum-product-of-two-digits](https://github.com/Navneetji91/LeetCode-Super-Solution/tree/master/3536-maximum-product-of-two-digits) |
+| [3731-find-missing-elements](https://github.com/Navneetji91/LeetCode-Super-Solution/tree/master/3731-find-missing-elements) |
 ## Stack
 |  |
 | ------- |
