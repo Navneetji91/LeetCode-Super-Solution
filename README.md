@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0007-reverse-integer](https://github.com/Navneetji91/LeetCode-Super-Solution/tree/master/0007-reverse-integer) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Navneetji91/LeetCode-Super-Solution/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0189-rotate-array](https://github.com/Navneetji91/LeetCode-Super-Solution/tree/master/0189-rotate-array) |
+| [0202-happy-number](https://github.com/Navneetji91/LeetCode-Super-Solution/tree/master/0202-happy-number) |
 | [0263-ugly-number](https://github.com/Navneetji91/LeetCode-Super-Solution/tree/master/0263-ugly-number) |
 | [0268-missing-number](https://github.com/Navneetji91/LeetCode-Super-Solution/tree/master/0268-missing-number) |
 | [0367-valid-perfect-square](https://github.com/Navneetji91/LeetCode-Super-Solution/tree/master/0367-valid-perfect-square) |
@@ -72,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Navneetji91/LeetCode-Super-Solution/tree/master/0001-two-sum) |
+| [0202-happy-number](https://github.com/Navneetji91/LeetCode-Super-Solution/tree/master/0202-happy-number) |
 | [0217-contains-duplicate](https://github.com/Navneetji91/LeetCode-Super-Solution/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/Navneetji91/LeetCode-Super-Solution/tree/master/0219-contains-duplicate-ii) |
 | [0268-missing-number](https://github.com/Navneetji91/LeetCode-Super-Solution/tree/master/0268-missing-number) |
@@ -105,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0027-remove-element](https://github.com/Navneetji91/LeetCode-Super-Solution/tree/master/0027-remove-element) |
 | [0125-valid-palindrome](https://github.com/Navneetji91/LeetCode-Super-Solution/tree/master/0125-valid-palindrome) |
 | [0189-rotate-array](https://github.com/Navneetji91/LeetCode-Super-Solution/tree/master/0189-rotate-array) |
+| [0202-happy-number](https://github.com/Navneetji91/LeetCode-Super-Solution/tree/master/0202-happy-number) |
 | [0283-move-zeroes](https://github.com/Navneetji91/LeetCode-Super-Solution/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/Navneetji91/LeetCode-Super-Solution/tree/master/0344-reverse-string) |
 | [0876-middle-of-the-linked-list](https://github.com/Navneetji91/LeetCode-Super-Solution/tree/master/0876-middle-of-the-linked-list) |
@@ -224,4 +227,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Navneetji91/LeetCode-Super-Solution/tree/master/0104-maximum-depth-of-binary-tree) |
+## Floyd's Cycle Finding Algorithm
+|  |
+| ------- |
+| [0202-happy-number](https://github.com/Navneetji91/LeetCode-Super-Solution/tree/master/0202-happy-number) |
 <!---LeetCode Topics End-->
