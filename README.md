@@ -54,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/Navneetji91/LeetCode-Super-Solution/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1652-defuse-the-bomb](https://github.com/Navneetji91/LeetCode-Super-Solution/tree/master/1652-defuse-the-bomb) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Navneetji91/LeetCode-Super-Solution/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
+| [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/Navneetji91/LeetCode-Super-Solution/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 | [3731-find-missing-elements](https://github.com/Navneetji91/LeetCode-Super-Solution/tree/master/3731-find-missing-elements) |
 ## Bit Manipulation
 |  |
@@ -62,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/Navneetji91/LeetCode-Super-Solution/tree/master/0268-missing-number) |
 | [0389-find-the-difference](https://github.com/Navneetji91/LeetCode-Super-Solution/tree/master/0389-find-the-difference) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/Navneetji91/LeetCode-Super-Solution/tree/master/0405-convert-a-number-to-hexadecimal) |
+| [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/Navneetji91/LeetCode-Super-Solution/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 ## String
 |  |
 | ------- |
