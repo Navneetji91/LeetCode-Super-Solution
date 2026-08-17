@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0007-reverse-integer](https://github.com/Navneetji91/LeetCode-Super-Solution/tree/master/0007-reverse-integer) |
+| [0009-palindrome-number](https://github.com/Navneetji91/LeetCode-Super-Solution/tree/master/0009-palindrome-number) |
 | [0070-climbing-stairs](https://github.com/Navneetji91/LeetCode-Super-Solution/tree/master/0070-climbing-stairs) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Navneetji91/LeetCode-Super-Solution/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0189-rotate-array](https://github.com/Navneetji91/LeetCode-Super-Solution/tree/master/0189-rotate-array) |
