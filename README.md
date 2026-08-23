@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/Navneetji91/LeetCode-Super-Solution/tree/master/0035-search-insert-position) |
 | [0049-group-anagrams](https://github.com/Navneetji91/LeetCode-Super-Solution/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/Navneetji91/LeetCode-Super-Solution/tree/master/0053-maximum-subarray) |
+| [0075-sort-colors](https://github.com/Navneetji91/LeetCode-Super-Solution/tree/master/0075-sort-colors) |
 | [0128-longest-consecutive-sequence](https://github.com/Navneetji91/LeetCode-Super-Solution/tree/master/0128-longest-consecutive-sequence) |
 | [0136-single-number](https://github.com/Navneetji91/LeetCode-Super-Solution/tree/master/0136-single-number) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Navneetji91/LeetCode-Super-Solution/tree/master/0150-evaluate-reverse-polish-notation) |
@@ -129,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0016-3sum-closest](https://github.com/Navneetji91/LeetCode-Super-Solution/tree/master/0016-3sum-closest) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Navneetji91/LeetCode-Super-Solution/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/Navneetji91/LeetCode-Super-Solution/tree/master/0027-remove-element) |
+| [0075-sort-colors](https://github.com/Navneetji91/LeetCode-Super-Solution/tree/master/0075-sort-colors) |
 | [0125-valid-palindrome](https://github.com/Navneetji91/LeetCode-Super-Solution/tree/master/0125-valid-palindrome) |
 | [0141-linked-list-cycle](https://github.com/Navneetji91/LeetCode-Super-Solution/tree/master/0141-linked-list-cycle) |
 | [0189-rotate-array](https://github.com/Navneetji91/LeetCode-Super-Solution/tree/master/0189-rotate-array) |
@@ -142,6 +144,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0016-3sum-closest](https://github.com/Navneetji91/LeetCode-Super-Solution/tree/master/0016-3sum-closest) |
 | [0049-group-anagrams](https://github.com/Navneetji91/LeetCode-Super-Solution/tree/master/0049-group-anagrams) |
+| [0075-sort-colors](https://github.com/Navneetji91/LeetCode-Super-Solution/tree/master/0075-sort-colors) |
 | [0217-contains-duplicate](https://github.com/Navneetji91/LeetCode-Super-Solution/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/Navneetji91/LeetCode-Super-Solution/tree/master/0268-missing-number) |
 | [0389-find-the-difference](https://github.com/Navneetji91/LeetCode-Super-Solution/tree/master/0389-find-the-difference) |
@@ -283,4 +286,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/Navneetji91/LeetCode-Super-Solution/tree/master/3069-distribute-elements-into-two-arrays-i) |
+## Quicksort
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/Navneetji91/LeetCode-Super-Solution/tree/master/0075-sort-colors) |
+## Bubble Sort
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/Navneetji91/LeetCode-Super-Solution/tree/master/0075-sort-colors) |
 <!---LeetCode Topics End-->
