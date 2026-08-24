@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Navneetji91/LeetCode-Super-Solution/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/Navneetji91/LeetCode-Super-Solution/tree/master/0027-remove-element) |
 | [0035-search-insert-position](https://github.com/Navneetji91/LeetCode-Super-Solution/tree/master/0035-search-insert-position) |
+| [0042-trapping-rain-water](https://github.com/Navneetji91/LeetCode-Super-Solution/tree/master/0042-trapping-rain-water) |
 | [0049-group-anagrams](https://github.com/Navneetji91/LeetCode-Super-Solution/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/Navneetji91/LeetCode-Super-Solution/tree/master/0053-maximum-subarray) |
 | [0075-sort-colors](https://github.com/Navneetji91/LeetCode-Super-Solution/tree/master/0075-sort-colors) |
@@ -112,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/Navneetji91/LeetCode-Super-Solution/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/Navneetji91/LeetCode-Super-Solution/tree/master/0053-maximum-subarray) |
 | [0070-climbing-stairs](https://github.com/Navneetji91/LeetCode-Super-Solution/tree/master/0070-climbing-stairs) |
 | [0494-target-sum](https://github.com/Navneetji91/LeetCode-Super-Solution/tree/master/0494-target-sum) |
@@ -130,6 +132,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0016-3sum-closest](https://github.com/Navneetji91/LeetCode-Super-Solution/tree/master/0016-3sum-closest) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Navneetji91/LeetCode-Super-Solution/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/Navneetji91/LeetCode-Super-Solution/tree/master/0027-remove-element) |
+| [0042-trapping-rain-water](https://github.com/Navneetji91/LeetCode-Super-Solution/tree/master/0042-trapping-rain-water) |
 | [0075-sort-colors](https://github.com/Navneetji91/LeetCode-Super-Solution/tree/master/0075-sort-colors) |
 | [0125-valid-palindrome](https://github.com/Navneetji91/LeetCode-Super-Solution/tree/master/0125-valid-palindrome) |
 | [0141-linked-list-cycle](https://github.com/Navneetji91/LeetCode-Super-Solution/tree/master/0141-linked-list-cycle) |
@@ -158,6 +161,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Navneetji91/LeetCode-Super-Solution/tree/master/0020-valid-parentheses) |
+| [0042-trapping-rain-water](https://github.com/Navneetji91/LeetCode-Super-Solution/tree/master/0042-trapping-rain-water) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Navneetji91/LeetCode-Super-Solution/tree/master/0150-evaluate-reverse-polish-notation) |
 ## Prefix Sum
 |  |
@@ -294,4 +298,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/Navneetji91/LeetCode-Super-Solution/tree/master/0075-sort-colors) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0042-trapping-rain-water](https://github.com/Navneetji91/LeetCode-Super-Solution/tree/master/0042-trapping-rain-water) |
 <!---LeetCode Topics End-->
