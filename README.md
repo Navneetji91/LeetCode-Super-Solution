@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0007-reverse-integer](https://github.com/Navneetji91/LeetCode-Super-Solution/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/Navneetji91/LeetCode-Super-Solution/tree/master/0009-palindrome-number) |
+| [0066-plus-one](https://github.com/Navneetji91/LeetCode-Super-Solution/tree/master/0066-plus-one) |
 | [0070-climbing-stairs](https://github.com/Navneetji91/LeetCode-Super-Solution/tree/master/0070-climbing-stairs) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Navneetji91/LeetCode-Super-Solution/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0189-rotate-array](https://github.com/Navneetji91/LeetCode-Super-Solution/tree/master/0189-rotate-array) |
@@ -36,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/Navneetji91/LeetCode-Super-Solution/tree/master/0042-trapping-rain-water) |
 | [0049-group-anagrams](https://github.com/Navneetji91/LeetCode-Super-Solution/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/Navneetji91/LeetCode-Super-Solution/tree/master/0053-maximum-subarray) |
+| [0066-plus-one](https://github.com/Navneetji91/LeetCode-Super-Solution/tree/master/0066-plus-one) |
 | [0075-sort-colors](https://github.com/Navneetji91/LeetCode-Super-Solution/tree/master/0075-sort-colors) |
 | [0128-longest-consecutive-sequence](https://github.com/Navneetji91/LeetCode-Super-Solution/tree/master/0128-longest-consecutive-sequence) |
 | [0136-single-number](https://github.com/Navneetji91/LeetCode-Super-Solution/tree/master/0136-single-number) |
