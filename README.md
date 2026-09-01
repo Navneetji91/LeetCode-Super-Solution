@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0007-reverse-integer](https://github.com/Navneetji91/LeetCode-Super-Solution/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/Navneetji91/LeetCode-Super-Solution/tree/master/0009-palindrome-number) |
 | [0066-plus-one](https://github.com/Navneetji91/LeetCode-Super-Solution/tree/master/0066-plus-one) |
+| [0067-add-binary](https://github.com/Navneetji91/LeetCode-Super-Solution/tree/master/0067-add-binary) |
 | [0070-climbing-stairs](https://github.com/Navneetji91/LeetCode-Super-Solution/tree/master/0070-climbing-stairs) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Navneetji91/LeetCode-Super-Solution/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0189-rotate-array](https://github.com/Navneetji91/LeetCode-Super-Solution/tree/master/0189-rotate-array) |
@@ -72,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/Navneetji91/LeetCode-Super-Solution/tree/master/0067-add-binary) |
 | [0136-single-number](https://github.com/Navneetji91/LeetCode-Super-Solution/tree/master/0136-single-number) |
 | [0268-missing-number](https://github.com/Navneetji91/LeetCode-Super-Solution/tree/master/0268-missing-number) |
 | [0389-find-the-difference](https://github.com/Navneetji91/LeetCode-Super-Solution/tree/master/0389-find-the-difference) |
@@ -85,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0038-count-and-say](https://github.com/Navneetji91/LeetCode-Super-Solution/tree/master/0038-count-and-say) |
 | [0049-group-anagrams](https://github.com/Navneetji91/LeetCode-Super-Solution/tree/master/0049-group-anagrams) |
 | [0058-length-of-last-word](https://github.com/Navneetji91/LeetCode-Super-Solution/tree/master/0058-length-of-last-word) |
+| [0067-add-binary](https://github.com/Navneetji91/LeetCode-Super-Solution/tree/master/0067-add-binary) |
 | [0125-valid-palindrome](https://github.com/Navneetji91/LeetCode-Super-Solution/tree/master/0125-valid-palindrome) |
 | [0344-reverse-string](https://github.com/Navneetji91/LeetCode-Super-Solution/tree/master/0344-reverse-string) |
 | [0387-first-unique-character-in-a-string](https://github.com/Navneetji91/LeetCode-Super-Solution/tree/master/0387-first-unique-character-in-a-string) |
@@ -301,6 +304,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/Navneetji91/LeetCode-Super-Solution/tree/master/0067-add-binary) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/Navneetji91/LeetCode-Super-Solution/tree/master/3069-distribute-elements-into-two-arrays-i) |
 ## Quicksort
 |  |
