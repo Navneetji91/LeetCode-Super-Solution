@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0136-single-number](https://github.com/Navneetji91/LeetCode-Super-Solution/tree/master/0136-single-number) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Navneetji91/LeetCode-Super-Solution/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Navneetji91/LeetCode-Super-Solution/tree/master/0153-find-minimum-in-rotated-sorted-array) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/Navneetji91/LeetCode-Super-Solution/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/Navneetji91/LeetCode-Super-Solution/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/Navneetji91/LeetCode-Super-Solution/tree/master/0189-rotate-array) |
 | [0209-minimum-size-subarray-sum](https://github.com/Navneetji91/LeetCode-Super-Solution/tree/master/0209-minimum-size-subarray-sum) |
@@ -153,6 +154,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/Navneetji91/LeetCode-Super-Solution/tree/master/0075-sort-colors) |
 | [0125-valid-palindrome](https://github.com/Navneetji91/LeetCode-Super-Solution/tree/master/0125-valid-palindrome) |
 | [0141-linked-list-cycle](https://github.com/Navneetji91/LeetCode-Super-Solution/tree/master/0141-linked-list-cycle) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/Navneetji91/LeetCode-Super-Solution/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/Navneetji91/LeetCode-Super-Solution/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/Navneetji91/LeetCode-Super-Solution/tree/master/0202-happy-number) |
 | [0283-move-zeroes](https://github.com/Navneetji91/LeetCode-Super-Solution/tree/master/0283-move-zeroes) |
@@ -198,6 +200,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0035-search-insert-position](https://github.com/Navneetji91/LeetCode-Super-Solution/tree/master/0035-search-insert-position) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Navneetji91/LeetCode-Super-Solution/tree/master/0153-find-minimum-in-rotated-sorted-array) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/Navneetji91/LeetCode-Super-Solution/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0209-minimum-size-subarray-sum](https://github.com/Navneetji91/LeetCode-Super-Solution/tree/master/0209-minimum-size-subarray-sum) |
 | [0268-missing-number](https://github.com/Navneetji91/LeetCode-Super-Solution/tree/master/0268-missing-number) |
 | [0367-valid-perfect-square](https://github.com/Navneetji91/LeetCode-Super-Solution/tree/master/0367-valid-perfect-square) |
