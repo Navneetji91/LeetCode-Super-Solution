@@ -99,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0389-find-the-difference](https://github.com/Navneetji91/LeetCode-Super-Solution/tree/master/0389-find-the-difference) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/Navneetji91/LeetCode-Super-Solution/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [0409-longest-palindrome](https://github.com/Navneetji91/LeetCode-Super-Solution/tree/master/0409-longest-palindrome) |
+| [0859-buddy-strings](https://github.com/Navneetji91/LeetCode-Super-Solution/tree/master/0859-buddy-strings) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Navneetji91/LeetCode-Super-Solution/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 ## Hash Table
 |  |
@@ -115,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0387-first-unique-character-in-a-string](https://github.com/Navneetji91/LeetCode-Super-Solution/tree/master/0387-first-unique-character-in-a-string) |
 | [0389-find-the-difference](https://github.com/Navneetji91/LeetCode-Super-Solution/tree/master/0389-find-the-difference) |
 | [0409-longest-palindrome](https://github.com/Navneetji91/LeetCode-Super-Solution/tree/master/0409-longest-palindrome) |
+| [0859-buddy-strings](https://github.com/Navneetji91/LeetCode-Super-Solution/tree/master/0859-buddy-strings) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Navneetji91/LeetCode-Super-Solution/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Navneetji91/LeetCode-Super-Solution/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/Navneetji91/LeetCode-Super-Solution/tree/master/3718-smallest-missing-multiple-of-k) |
