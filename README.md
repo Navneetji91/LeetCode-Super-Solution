@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0441-arranging-coins](https://github.com/Navneetji91/LeetCode-Super-Solution/tree/master/0441-arranging-coins) |
 | [0509-fibonacci-number](https://github.com/Navneetji91/LeetCode-Super-Solution/tree/master/0509-fibonacci-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Navneetji91/LeetCode-Super-Solution/tree/master/0628-maximum-product-of-three-numbers) |
+| [0836-rectangle-overlap](https://github.com/Navneetji91/LeetCode-Super-Solution/tree/master/0836-rectangle-overlap) |
 | [0877-stone-game](https://github.com/Navneetji91/LeetCode-Super-Solution/tree/master/0877-stone-game) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/Navneetji91/LeetCode-Super-Solution/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/Navneetji91/LeetCode-Super-Solution/tree/master/3345-smallest-divisible-digit-product-i) |
@@ -341,4 +342,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/Navneetji91/LeetCode-Super-Solution/tree/master/0169-majority-element) |
+## Geometry
+|  |
+| ------- |
+| [0836-rectangle-overlap](https://github.com/Navneetji91/LeetCode-Super-Solution/tree/master/0836-rectangle-overlap) |
 <!---LeetCode Topics End-->
