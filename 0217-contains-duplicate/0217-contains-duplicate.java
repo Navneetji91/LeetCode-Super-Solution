@@ -8,11 +8,11 @@ class Solution {
         // }
         // return false;
         HashSet<Integer> elem=new HashSet<>();
-        for(int i=0;i<nums.length;i++){
-            if(elem.contains(nums[i])){
+        for(int num:nums){
+            if(elem.contains(num)){
                 return true;
             }
-            elem.add(nums[i]);
+            elem.add(num);
         }
         
         return false;
