@@ -106,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0409-longest-palindrome](https://github.com/Navneetji91/LeetCode-Super-Solution/tree/master/0409-longest-palindrome) |
 | [0859-buddy-strings](https://github.com/Navneetji91/LeetCode-Super-Solution/tree/master/0859-buddy-strings) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Navneetji91/LeetCode-Super-Solution/tree/master/3090-maximum-length-substring-with-two-occurrences) |
+| [3498-reverse-degree-of-a-string](https://github.com/Navneetji91/LeetCode-Super-Solution/tree/master/3498-reverse-degree-of-a-string) |
 ## Hash Table
 |  |
 | ------- |
@@ -329,6 +330,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0067-add-binary](https://github.com/Navneetji91/LeetCode-Super-Solution/tree/master/0067-add-binary) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/Navneetji91/LeetCode-Super-Solution/tree/master/3069-distribute-elements-into-two-arrays-i) |
+| [3498-reverse-degree-of-a-string](https://github.com/Navneetji91/LeetCode-Super-Solution/tree/master/3498-reverse-degree-of-a-string) |
 ## Quicksort
 |  |
 | ------- |
