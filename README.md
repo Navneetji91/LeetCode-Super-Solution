@@ -106,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0389-find-the-difference](https://github.com/Navneetji91/LeetCode-Super-Solution/tree/master/0389-find-the-difference) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/Navneetji91/LeetCode-Super-Solution/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [0409-longest-palindrome](https://github.com/Navneetji91/LeetCode-Super-Solution/tree/master/0409-longest-palindrome) |
+| [0844-backspace-string-compare](https://github.com/Navneetji91/LeetCode-Super-Solution/tree/master/0844-backspace-string-compare) |
 | [0859-buddy-strings](https://github.com/Navneetji91/LeetCode-Super-Solution/tree/master/0859-buddy-strings) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Navneetji91/LeetCode-Super-Solution/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3498-reverse-degree-of-a-string](https://github.com/Navneetji91/LeetCode-Super-Solution/tree/master/3498-reverse-degree-of-a-string) |
@@ -175,6 +176,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0202-happy-number](https://github.com/Navneetji91/LeetCode-Super-Solution/tree/master/0202-happy-number) |
 | [0283-move-zeroes](https://github.com/Navneetji91/LeetCode-Super-Solution/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/Navneetji91/LeetCode-Super-Solution/tree/master/0344-reverse-string) |
+| [0844-backspace-string-compare](https://github.com/Navneetji91/LeetCode-Super-Solution/tree/master/0844-backspace-string-compare) |
 | [0876-middle-of-the-linked-list](https://github.com/Navneetji91/LeetCode-Super-Solution/tree/master/0876-middle-of-the-linked-list) |
 | [0977-squares-of-a-sorted-array](https://github.com/Navneetji91/LeetCode-Super-Solution/tree/master/0977-squares-of-a-sorted-array) |
 ## Sorting
@@ -201,6 +203,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/Navneetji91/LeetCode-Super-Solution/tree/master/0020-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/Navneetji91/LeetCode-Super-Solution/tree/master/0042-trapping-rain-water) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Navneetji91/LeetCode-Super-Solution/tree/master/0150-evaluate-reverse-polish-notation) |
+| [0844-backspace-string-compare](https://github.com/Navneetji91/LeetCode-Super-Solution/tree/master/0844-backspace-string-compare) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -338,6 +341,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/Navneetji91/LeetCode-Super-Solution/tree/master/0067-add-binary) |
+| [0844-backspace-string-compare](https://github.com/Navneetji91/LeetCode-Super-Solution/tree/master/0844-backspace-string-compare) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/Navneetji91/LeetCode-Super-Solution/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3498-reverse-degree-of-a-string](https://github.com/Navneetji91/LeetCode-Super-Solution/tree/master/3498-reverse-degree-of-a-string) |
 ## Quicksort
