@@ -94,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0014-longest-common-prefix](https://github.com/Navneetji91/LeetCode-Super-Solution/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/Navneetji91/LeetCode-Super-Solution/tree/master/0020-valid-parentheses) |
+| [0032-longest-valid-parentheses](https://github.com/Navneetji91/LeetCode-Super-Solution/tree/master/0032-longest-valid-parentheses) |
 | [0038-count-and-say](https://github.com/Navneetji91/LeetCode-Super-Solution/tree/master/0038-count-and-say) |
 | [0049-group-anagrams](https://github.com/Navneetji91/LeetCode-Super-Solution/tree/master/0049-group-anagrams) |
 | [0058-length-of-last-word](https://github.com/Navneetji91/LeetCode-Super-Solution/tree/master/0058-length-of-last-word) |
@@ -144,6 +145,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0032-longest-valid-parentheses](https://github.com/Navneetji91/LeetCode-Super-Solution/tree/master/0032-longest-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/Navneetji91/LeetCode-Super-Solution/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/Navneetji91/LeetCode-Super-Solution/tree/master/0053-maximum-subarray) |
 | [0070-climbing-stairs](https://github.com/Navneetji91/LeetCode-Super-Solution/tree/master/0070-climbing-stairs) |
@@ -201,6 +203,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Navneetji91/LeetCode-Super-Solution/tree/master/0020-valid-parentheses) |
+| [0032-longest-valid-parentheses](https://github.com/Navneetji91/LeetCode-Super-Solution/tree/master/0032-longest-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/Navneetji91/LeetCode-Super-Solution/tree/master/0042-trapping-rain-water) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Navneetji91/LeetCode-Super-Solution/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0844-backspace-string-compare](https://github.com/Navneetji91/LeetCode-Super-Solution/tree/master/0844-backspace-string-compare) |
@@ -372,4 +375,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Navneetji91/LeetCode-Super-Solution/tree/master/0020-valid-parentheses) |
+| [0032-longest-valid-parentheses](https://github.com/Navneetji91/LeetCode-Super-Solution/tree/master/0032-longest-valid-parentheses) |
 <!---LeetCode Topics End-->
