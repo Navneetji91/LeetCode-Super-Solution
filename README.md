@@ -107,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0389-find-the-difference](https://github.com/Navneetji91/LeetCode-Super-Solution/tree/master/0389-find-the-difference) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/Navneetji91/LeetCode-Super-Solution/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [0409-longest-palindrome](https://github.com/Navneetji91/LeetCode-Super-Solution/tree/master/0409-longest-palindrome) |
+| [0678-valid-parenthesis-string](https://github.com/Navneetji91/LeetCode-Super-Solution/tree/master/0678-valid-parenthesis-string) |
 | [0844-backspace-string-compare](https://github.com/Navneetji91/LeetCode-Super-Solution/tree/master/0844-backspace-string-compare) |
 | [0859-buddy-strings](https://github.com/Navneetji91/LeetCode-Super-Solution/tree/master/0859-buddy-strings) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Navneetji91/LeetCode-Super-Solution/tree/master/3090-maximum-length-substring-with-two-occurrences) |
@@ -151,6 +152,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/Navneetji91/LeetCode-Super-Solution/tree/master/0070-climbing-stairs) |
 | [0494-target-sum](https://github.com/Navneetji91/LeetCode-Super-Solution/tree/master/0494-target-sum) |
 | [0509-fibonacci-number](https://github.com/Navneetji91/LeetCode-Super-Solution/tree/master/0509-fibonacci-number) |
+| [0678-valid-parenthesis-string](https://github.com/Navneetji91/LeetCode-Super-Solution/tree/master/0678-valid-parenthesis-string) |
 | [0877-stone-game](https://github.com/Navneetji91/LeetCode-Super-Solution/tree/master/0877-stone-game) |
 ## Linked List
 |  |
@@ -206,6 +208,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0032-longest-valid-parentheses](https://github.com/Navneetji91/LeetCode-Super-Solution/tree/master/0032-longest-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/Navneetji91/LeetCode-Super-Solution/tree/master/0042-trapping-rain-water) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Navneetji91/LeetCode-Super-Solution/tree/master/0150-evaluate-reverse-polish-notation) |
+| [0678-valid-parenthesis-string](https://github.com/Navneetji91/LeetCode-Super-Solution/tree/master/0678-valid-parenthesis-string) |
 | [0844-backspace-string-compare](https://github.com/Navneetji91/LeetCode-Super-Solution/tree/master/0844-backspace-string-compare) |
 ## Prefix Sum
 |  |
@@ -220,6 +223,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0011-container-with-most-water](https://github.com/Navneetji91/LeetCode-Super-Solution/tree/master/0011-container-with-most-water) |
 | [0409-longest-palindrome](https://github.com/Navneetji91/LeetCode-Super-Solution/tree/master/0409-longest-palindrome) |
+| [0678-valid-parenthesis-string](https://github.com/Navneetji91/LeetCode-Super-Solution/tree/master/0678-valid-parenthesis-string) |
 ## Binary Search
 |  |
 | ------- |
@@ -376,4 +380,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/Navneetji91/LeetCode-Super-Solution/tree/master/0020-valid-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/Navneetji91/LeetCode-Super-Solution/tree/master/0032-longest-valid-parentheses) |
+| [0678-valid-parenthesis-string](https://github.com/Navneetji91/LeetCode-Super-Solution/tree/master/0678-valid-parenthesis-string) |
 <!---LeetCode Topics End-->
