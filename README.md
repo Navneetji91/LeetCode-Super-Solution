@@ -111,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0678-valid-parenthesis-string](https://github.com/Navneetji91/LeetCode-Super-Solution/tree/master/0678-valid-parenthesis-string) |
 | [0844-backspace-string-compare](https://github.com/Navneetji91/LeetCode-Super-Solution/tree/master/0844-backspace-string-compare) |
 | [0859-buddy-strings](https://github.com/Navneetji91/LeetCode-Super-Solution/tree/master/0859-buddy-strings) |
+| [1021-remove-outermost-parentheses](https://github.com/Navneetji91/LeetCode-Super-Solution/tree/master/1021-remove-outermost-parentheses) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Navneetji91/LeetCode-Super-Solution/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3498-reverse-degree-of-a-string](https://github.com/Navneetji91/LeetCode-Super-Solution/tree/master/3498-reverse-degree-of-a-string) |
 ## Hash Table
@@ -212,6 +213,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0150-evaluate-reverse-polish-notation](https://github.com/Navneetji91/LeetCode-Super-Solution/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0678-valid-parenthesis-string](https://github.com/Navneetji91/LeetCode-Super-Solution/tree/master/0678-valid-parenthesis-string) |
 | [0844-backspace-string-compare](https://github.com/Navneetji91/LeetCode-Super-Solution/tree/master/0844-backspace-string-compare) |
+| [1021-remove-outermost-parentheses](https://github.com/Navneetji91/LeetCode-Super-Solution/tree/master/1021-remove-outermost-parentheses) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -383,4 +385,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/Navneetji91/LeetCode-Super-Solution/tree/master/0020-valid-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/Navneetji91/LeetCode-Super-Solution/tree/master/0032-longest-valid-parentheses) |
 | [0678-valid-parenthesis-string](https://github.com/Navneetji91/LeetCode-Super-Solution/tree/master/0678-valid-parenthesis-string) |
+| [1021-remove-outermost-parentheses](https://github.com/Navneetji91/LeetCode-Super-Solution/tree/master/1021-remove-outermost-parentheses) |
 <!---LeetCode Topics End-->
