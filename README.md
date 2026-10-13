@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/Navneetji91/LeetCode-Super-Solution/tree/master/0053-maximum-subarray) |
 | [0066-plus-one](https://github.com/Navneetji91/LeetCode-Super-Solution/tree/master/0066-plus-one) |
 | [0075-sort-colors](https://github.com/Navneetji91/LeetCode-Super-Solution/tree/master/0075-sort-colors) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/Navneetji91/LeetCode-Super-Solution/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0128-longest-consecutive-sequence](https://github.com/Navneetji91/LeetCode-Super-Solution/tree/master/0128-longest-consecutive-sequence) |
 | [0136-single-number](https://github.com/Navneetji91/LeetCode-Super-Solution/tree/master/0136-single-number) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Navneetji91/LeetCode-Super-Solution/tree/master/0150-evaluate-reverse-polish-notation) |
@@ -155,6 +156,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/Navneetji91/LeetCode-Super-Solution/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/Navneetji91/LeetCode-Super-Solution/tree/master/0053-maximum-subarray) |
 | [0070-climbing-stairs](https://github.com/Navneetji91/LeetCode-Super-Solution/tree/master/0070-climbing-stairs) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/Navneetji91/LeetCode-Super-Solution/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0494-target-sum](https://github.com/Navneetji91/LeetCode-Super-Solution/tree/master/0494-target-sum) |
 | [0509-fibonacci-number](https://github.com/Navneetji91/LeetCode-Super-Solution/tree/master/0509-fibonacci-number) |
 | [0678-valid-parenthesis-string](https://github.com/Navneetji91/LeetCode-Super-Solution/tree/master/0678-valid-parenthesis-string) |
