@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3345-smallest-divisible-digit-product-i](https://github.com/Navneetji91/LeetCode-Super-Solution/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3536-maximum-product-of-two-digits](https://github.com/Navneetji91/LeetCode-Super-Solution/tree/master/3536-maximum-product-of-two-digits) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/Navneetji91/LeetCode-Super-Solution/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
+| [3723-maximize-sum-of-squares-of-digits](https://github.com/Navneetji91/LeetCode-Super-Solution/tree/master/3723-maximize-sum-of-squares-of-digits) |
 | [3870-count-commas-in-range](https://github.com/Navneetji91/LeetCode-Super-Solution/tree/master/3870-count-commas-in-range) |
 | [3875-construct-uniform-parity-array-i](https://github.com/Navneetji91/LeetCode-Super-Solution/tree/master/3875-construct-uniform-parity-array-i) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/Navneetji91/LeetCode-Super-Solution/tree/master/3876-construct-uniform-parity-array-ii) |
@@ -232,6 +233,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/Navneetji91/LeetCode-Super-Solution/tree/master/0011-container-with-most-water) |
 | [0409-longest-palindrome](https://github.com/Navneetji91/LeetCode-Super-Solution/tree/master/0409-longest-palindrome) |
 | [0678-valid-parenthesis-string](https://github.com/Navneetji91/LeetCode-Super-Solution/tree/master/0678-valid-parenthesis-string) |
+| [3723-maximize-sum-of-squares-of-digits](https://github.com/Navneetji91/LeetCode-Super-Solution/tree/master/3723-maximize-sum-of-squares-of-digits) |
 ## Binary Search
 |  |
 | ------- |
