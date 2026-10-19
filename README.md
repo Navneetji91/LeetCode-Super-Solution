@@ -75,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0977-squares-of-a-sorted-array](https://github.com/Navneetji91/LeetCode-Super-Solution/tree/master/0977-squares-of-a-sorted-array) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/Navneetji91/LeetCode-Super-Solution/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1652-defuse-the-bomb](https://github.com/Navneetji91/LeetCode-Super-Solution/tree/master/1652-defuse-the-bomb) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/Navneetji91/LeetCode-Super-Solution/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/Navneetji91/LeetCode-Super-Solution/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Navneetji91/LeetCode-Super-Solution/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/Navneetji91/LeetCode-Super-Solution/tree/master/3069-distribute-elements-into-two-arrays-i) |
@@ -207,6 +208,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0628-maximum-product-of-three-numbers](https://github.com/Navneetji91/LeetCode-Super-Solution/tree/master/0628-maximum-product-of-three-numbers) |
 | [0912-sort-an-array](https://github.com/Navneetji91/LeetCode-Super-Solution/tree/master/0912-sort-an-array) |
 | [0977-squares-of-a-sorted-array](https://github.com/Navneetji91/LeetCode-Super-Solution/tree/master/0977-squares-of-a-sorted-array) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/Navneetji91/LeetCode-Super-Solution/tree/master/2089-find-target-indices-after-sorting-array) |
 | [3536-maximum-product-of-two-digits](https://github.com/Navneetji91/LeetCode-Super-Solution/tree/master/3536-maximum-product-of-two-digits) |
 | [3731-find-missing-elements](https://github.com/Navneetji91/LeetCode-Super-Solution/tree/master/3731-find-missing-elements) |
 ## Stack
@@ -246,6 +248,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0374-guess-number-higher-or-lower](https://github.com/Navneetji91/LeetCode-Super-Solution/tree/master/0374-guess-number-higher-or-lower) |
 | [0441-arranging-coins](https://github.com/Navneetji91/LeetCode-Super-Solution/tree/master/0441-arranging-coins) |
 | [0713-subarray-product-less-than-k](https://github.com/Navneetji91/LeetCode-Super-Solution/tree/master/0713-subarray-product-less-than-k) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/Navneetji91/LeetCode-Super-Solution/tree/master/2089-find-target-indices-after-sorting-array) |
 ## Sliding Window
 |  |
 | ------- |
