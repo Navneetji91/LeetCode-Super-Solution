@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0007-reverse-integer](https://github.com/Navneetji91/LeetCode-Super-Solution/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/Navneetji91/LeetCode-Super-Solution/tree/master/0009-palindrome-number) |
+| [0012-integer-to-roman](https://github.com/Navneetji91/LeetCode-Super-Solution/tree/master/0012-integer-to-roman) |
 | [0050-powx-n](https://github.com/Navneetji91/LeetCode-Super-Solution/tree/master/0050-powx-n) |
 | [0066-plus-one](https://github.com/Navneetji91/LeetCode-Super-Solution/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/Navneetji91/LeetCode-Super-Solution/tree/master/0067-add-binary) |
@@ -98,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0012-integer-to-roman](https://github.com/Navneetji91/LeetCode-Super-Solution/tree/master/0012-integer-to-roman) |
 | [0014-longest-common-prefix](https://github.com/Navneetji91/LeetCode-Super-Solution/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/Navneetji91/LeetCode-Super-Solution/tree/master/0020-valid-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/Navneetji91/LeetCode-Super-Solution/tree/master/0032-longest-valid-parentheses) |
@@ -124,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Navneetji91/LeetCode-Super-Solution/tree/master/0001-two-sum) |
+| [0012-integer-to-roman](https://github.com/Navneetji91/LeetCode-Super-Solution/tree/master/0012-integer-to-roman) |
 | [0049-group-anagrams](https://github.com/Navneetji91/LeetCode-Super-Solution/tree/master/0049-group-anagrams) |
 | [0128-longest-consecutive-sequence](https://github.com/Navneetji91/LeetCode-Super-Solution/tree/master/0128-longest-consecutive-sequence) |
 | [0141-linked-list-cycle](https://github.com/Navneetji91/LeetCode-Super-Solution/tree/master/0141-linked-list-cycle) |
