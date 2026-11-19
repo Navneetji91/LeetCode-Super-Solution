@@ -81,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/Navneetji91/LeetCode-Super-Solution/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1652-defuse-the-bomb](https://github.com/Navneetji91/LeetCode-Super-Solution/tree/master/1652-defuse-the-bomb) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/Navneetji91/LeetCode-Super-Solution/tree/master/2089-find-target-indices-after-sorting-array) |
+| [2567-minimum-score-by-changing-two-elements](https://github.com/Navneetji91/LeetCode-Super-Solution/tree/master/2567-minimum-score-by-changing-two-elements) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/Navneetji91/LeetCode-Super-Solution/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Navneetji91/LeetCode-Super-Solution/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/Navneetji91/LeetCode-Super-Solution/tree/master/3069-distribute-elements-into-two-arrays-i) |
@@ -220,6 +221,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0912-sort-an-array](https://github.com/Navneetji91/LeetCode-Super-Solution/tree/master/0912-sort-an-array) |
 | [0977-squares-of-a-sorted-array](https://github.com/Navneetji91/LeetCode-Super-Solution/tree/master/0977-squares-of-a-sorted-array) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/Navneetji91/LeetCode-Super-Solution/tree/master/2089-find-target-indices-after-sorting-array) |
+| [2567-minimum-score-by-changing-two-elements](https://github.com/Navneetji91/LeetCode-Super-Solution/tree/master/2567-minimum-score-by-changing-two-elements) |
 | [3536-maximum-product-of-two-digits](https://github.com/Navneetji91/LeetCode-Super-Solution/tree/master/3536-maximum-product-of-two-digits) |
 | [3731-find-missing-elements](https://github.com/Navneetji91/LeetCode-Super-Solution/tree/master/3731-find-missing-elements) |
 ## Stack
@@ -246,6 +248,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/Navneetji91/LeetCode-Super-Solution/tree/master/0011-container-with-most-water) |
 | [0409-longest-palindrome](https://github.com/Navneetji91/LeetCode-Super-Solution/tree/master/0409-longest-palindrome) |
 | [0678-valid-parenthesis-string](https://github.com/Navneetji91/LeetCode-Super-Solution/tree/master/0678-valid-parenthesis-string) |
+| [2567-minimum-score-by-changing-two-elements](https://github.com/Navneetji91/LeetCode-Super-Solution/tree/master/2567-minimum-score-by-changing-two-elements) |
 | [3723-maximize-sum-of-squares-of-digits](https://github.com/Navneetji91/LeetCode-Super-Solution/tree/master/3723-maximize-sum-of-squares-of-digits) |
 ## Binary Search
 |  |
