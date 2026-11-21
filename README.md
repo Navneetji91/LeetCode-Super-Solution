@@ -68,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0303-range-sum-query-immutable](https://github.com/Navneetji91/LeetCode-Super-Solution/tree/master/0303-range-sum-query-immutable) |
 | [0347-top-k-frequent-elements](https://github.com/Navneetji91/LeetCode-Super-Solution/tree/master/0347-top-k-frequent-elements) |
 | [0414-third-maximum-number](https://github.com/Navneetji91/LeetCode-Super-Solution/tree/master/0414-third-maximum-number) |
+| [0442-find-all-duplicates-in-an-array](https://github.com/Navneetji91/LeetCode-Super-Solution/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/Navneetji91/LeetCode-Super-Solution/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0485-max-consecutive-ones](https://github.com/Navneetji91/LeetCode-Super-Solution/tree/master/0485-max-consecutive-ones) |
 | [0494-target-sum](https://github.com/Navneetji91/LeetCode-Super-Solution/tree/master/0494-target-sum) |
@@ -146,6 +147,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0387-first-unique-character-in-a-string](https://github.com/Navneetji91/LeetCode-Super-Solution/tree/master/0387-first-unique-character-in-a-string) |
 | [0389-find-the-difference](https://github.com/Navneetji91/LeetCode-Super-Solution/tree/master/0389-find-the-difference) |
 | [0409-longest-palindrome](https://github.com/Navneetji91/LeetCode-Super-Solution/tree/master/0409-longest-palindrome) |
+| [0442-find-all-duplicates-in-an-array](https://github.com/Navneetji91/LeetCode-Super-Solution/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Navneetji91/LeetCode-Super-Solution/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0859-buddy-strings](https://github.com/Navneetji91/LeetCode-Super-Solution/tree/master/0859-buddy-strings) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Navneetji91/LeetCode-Super-Solution/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
@@ -216,6 +218,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/Navneetji91/LeetCode-Super-Solution/tree/master/0347-top-k-frequent-elements) |
 | [0389-find-the-difference](https://github.com/Navneetji91/LeetCode-Super-Solution/tree/master/0389-find-the-difference) |
 | [0414-third-maximum-number](https://github.com/Navneetji91/LeetCode-Super-Solution/tree/master/0414-third-maximum-number) |
+| [0442-find-all-duplicates-in-an-array](https://github.com/Navneetji91/LeetCode-Super-Solution/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/Navneetji91/LeetCode-Super-Solution/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Navneetji91/LeetCode-Super-Solution/tree/master/0628-maximum-product-of-three-numbers) |
 | [0912-sort-an-array](https://github.com/Navneetji91/LeetCode-Super-Solution/tree/master/0912-sort-an-array) |
