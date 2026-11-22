@@ -125,6 +125,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0844-backspace-string-compare](https://github.com/Navneetji91/LeetCode-Super-Solution/tree/master/0844-backspace-string-compare) |
 | [0859-buddy-strings](https://github.com/Navneetji91/LeetCode-Super-Solution/tree/master/0859-buddy-strings) |
 | [1021-remove-outermost-parentheses](https://github.com/Navneetji91/LeetCode-Super-Solution/tree/master/1021-remove-outermost-parentheses) |
+| [2124-check-if-all-as-appears-before-all-bs](https://github.com/Navneetji91/LeetCode-Super-Solution/tree/master/2124-check-if-all-as-appears-before-all-bs) |
 | [2914-minimum-number-of-changes-to-make-binary-string-beautiful](https://github.com/Navneetji91/LeetCode-Super-Solution/tree/master/2914-minimum-number-of-changes-to-make-binary-string-beautiful) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Navneetji91/LeetCode-Super-Solution/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3498-reverse-degree-of-a-string](https://github.com/Navneetji91/LeetCode-Super-Solution/tree/master/3498-reverse-degree-of-a-string) |
